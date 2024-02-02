@@ -19,7 +19,6 @@ import { API } from "./api.js";
  * @see Review
  * @see ReviewList
  * @see SearchGames
- * @see https://example.com/docs  Further documentation link (if available).
  */
 
 class GameCard {
