@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"
+		/>
+		<meta name="description" content="" />
+		<meta name="author" content="" />
+		<title>SP Games</title>
+		<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+		<link
+			href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+			rel="stylesheet"
+		/>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+			rel="stylesheet"
+		/>
+		<link href="css/admin.css" rel="stylesheet" />
+	</head>
+	<body id="page-top">
+		<nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+			<!-- This is where the navbar is dynamically generated -->
+		</nav>
+
+		<div class="container mt-5">
+			<h2 class="py-2">Add New</h2>
+			<div class="mb-3">
+				<label for="selection" class="form-label">Select:</label>
+				<select class="form-select mb-5" id="selection">
+					<option value="game">Game</option>
+					<option value="platform">Platform</option>
+				</select>
+			</div>
+
+			<!-- Game Form -->
+			<form id="addGameForm" class="add-form">
+				<div class="mb-3">
+					<label for="title" class="form-label">Title</label>
+					<input
+						type="text"
+						class="form-control"
+						id="title"
+						name="title"
+						required
+					/>
+				</div>
+				<div class="mb-3">
+					<label for="description" class="form-label"
+						>Description</label
+					>
+					<textarea
+						class="form-control"
+						id="description"
+						name="description"
+						required
+					></textarea>
+				</div>
+				<div class="mb-3">
+					<label for="platforms" class="form-label">Platforms</label>
+					<div id="platformsContainer">
+						<!-- Platform input fields will be added dynamically -->
+					</div>
+					<button
+						type="button"
+						class="btn btn-primary"
+						id="addPlatformBtn"
+					>
+						Add Platform
+					</button>
+				</div>
+				<div class="mb-3">
+					<label for="categories" class="form-label"
+						>Categories</label
+					>
+					<div id="categoriesContainer">
+						<!-- Category input fields will be added dynamically -->
+					</div>
+					<button
+						type="button"
+						class="btn btn-primary"
+						id="addCategoryBtn"
+					>
+						Add Category
+					</button>
+				</div>
+				<div class="mb-3">
+					<label for="year" class="form-label">Year</label>
+					<input
+						type="number"
+						class="form-control"
+						id="year"
+						name="year"
+						required
+					/>
+				</div>
+				<div class="mb-3">
+					<label for="image_url" class="form-label">Image URL</label>
+					<input
+						type="url"
+						class="form-control"
+						id="image_url"
+						name="image_url"
+						required
+					/>
+				</div>
+				<button type="submit" class="btn btn-primary">Add Game</button>
+			</form>
+
+			<!-- Platform Form -->
+			<form id="addPlatformForm" class="add-form">
+				<div class="mb-3">
+					<label for="platformName" class="form-label"
+						>Platform Name</label
+					>
+					<div class="position-relative">
+						<input
+							type="text"
+							class="form-control"
+							id="platformName"
+							name="platformName"
+							required
+						/>
+					</div>
+				</div>
+				<div class="mb-3">
+					<label for="platformDescription" class="form-label"
+						>Platform Description</label
+					>
+					<input
+						type="text"
+						class="form-control"
+						id="platformDescription"
+						name="platformDescription"
+						required
+					/>
+				</div>
+				<button type="submit" class="btn btn-primary">
+					Add Platform
+				</button>
+			</form>
+		</div>
+
+		<!-- Footer-->
+		<footer class="bg-dark py-5">
+			<div class="container px-4 px-lg-5">
+				<div class="small text-center text-muted">
+					Copyright &copy; 2023 - SP Games
+				</div>
+			</div>
+		</footer>
+
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+		<script src="js/admin.js" type="module"></script>
+		<script src="js/api.js" type="module"></script>
+		<script src="js/navbar.js" type="module"></script>
+	</body>
+</html>

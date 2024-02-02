@@ -1,0 +1,28 @@
+{
+  "name": "jwt-promise",
+  "version": "1.0.0",
+  "description": "async/await ver of jsonwebtoken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quick-sort/jwt-promise.git"
+  },
+  "keywords": [
+    "async",
+    "jwt",
+    "promise",
+    "jsonwebtoken"
+  ],
+  "author": "quicksort",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/quick-sort/jwt-promise/issues"
+  },
+  "homepage": "https://github.com/quick-sort/jwt-promise#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}

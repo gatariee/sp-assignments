@@ -1,0 +1,27 @@
+[
+    {
+        "player": "Alice",
+        "points": 14,
+        "date": "15/11/22"
+    },
+    {
+        "player": "Bob",
+        "points": 18,
+        "date": "16/11/22"
+    },
+    {
+        "player": "Charlie",
+        "points": 10,
+        "date": "17/11/22"
+    },
+    {
+        "player": "Tom",
+        "points": 20,
+        "date": "18/11/22"
+    },
+    {
+        "player": "Jerry",
+        "points": 21,
+        "date": "18/11/22"
+    }
+]

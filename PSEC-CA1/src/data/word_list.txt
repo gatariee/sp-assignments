@@ -1,0 +1,142 @@
+[
+    {
+        "word": "dish",
+        "meaning": "an open, relatively shallow container of pottery, glass, metal, wood, etc., used for various purposes, especially for holding or serving food.",
+        "difficulty": "Simple",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "depend",
+        "meaning": "to rely; place trust (usually followed by on or upon):",
+        "difficulty": "Simple",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "grounds",
+        "meaning": "the solid surface of the earth; firm or dry land:",
+        "difficulty": "Simple",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "last",
+        "meaning": "occurring or coming after all others, as in time, order, or place:",
+        "difficulty": "Simple",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "throat",
+        "meaning": "the passage from the mouth to the stomach or to the lungs, including the pharynx, esophagus, larynx, and trachea.",
+        "difficulty": "Simple",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "strawberry",
+        "meaning": "a sweet soft red fruit with a seed-studded surface.",
+        "difficulty": "Complex",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "friendship",
+        "meaning": "the emotions or conduct of friends; the state of being friends.",
+        "difficulty": "Complex",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "everything",
+        "meaning": "all things, the current situation; life in general.",
+        "difficulty": "Complex",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "appreciate",
+        "meaning": "understand (a situation) fully; grasp the full implications of.",
+        "difficulty": "Complex",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "motivation",
+        "meaning": "a reason or reasons for acting or behaving in a particular way.",
+        "difficulty": "Complex",
+        "type": "Word",
+        "enabled": "on"
+    },
+    {
+        "word": "better late than never",
+        "meaning": "it is better to do something or arrive after the expected time than not do it or arrive at all.",
+        "difficulty": "Simple",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "beat around the bush",
+        "meaning": "discuss a matter without coming to the point.",
+        "difficulty": "Simple",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "bite the bullet",
+        "meaning": "decide to do something difficult or unpleasant that one has been putting off or hesitating over.",
+        "difficulty": "Simple",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "break a leg",
+        "meaning": "used for wishing someone good luck, especially before a performance.",
+        "difficulty": "Simple",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "call it a day",
+        "meaning": "decide or agree to stop doing something.",
+        "difficulty": "Simple",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "a bird in the hand is worth two in the bush",
+        "meaning": "it's better to be content with what you have than to risk losing everything by seeking to get more.",
+        "difficulty": "Complex",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "an eye for an eye and a tooth for a tooth",
+        "meaning": "used to refer to the belief that retaliation in kind is the appropriate way to deal with an offence or crime",
+        "difficulty": "Complex",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "i can do it with one hand tied behind my back",
+        "meaning": "easily, without much effort",
+        "difficulty": "Complex",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "a little bit of this and a little bit of that",
+        "meaning": "a small amount of many things",
+        "difficulty": "Complex",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    },
+    {
+        "word": "you can lead a horse to water but you can't make it drink",
+        "meaning": "you can give someone an opportunity but not force them to take it",
+        "difficulty": "Complex",
+        "type": "Idioms-Proverbs",
+        "enabled": "on"
+    }
+]

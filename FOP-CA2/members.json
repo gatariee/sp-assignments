@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Leonardo",
+		"birthdate": "1 Dec 1980",
+		"type": "Gold",
+		"join_date": "1 Jan 1980",
+		"points": 1400,
+		"UID": 34126,
+		"draws": 0
+	},
+	{
+		"name": "Catherine",
+		"birthdate": "28 Oct 1985",
+		"type": "Ruby",
+		"join_date": "14 Jan 2020",
+		"points": 250,
+		"UID": 27182,
+		"draws": 0
+	},
+	{
+		"name": "Luther",
+		"birthdate": "16 Mar 1992",
+		"type": "Gold",
+		"join_date": "29 Apr 2020",
+		"points": 3350,
+		"UID": 17237,
+		"draws": 0
+	},
+	{
+		"name": "Bruce",
+		"birthdate": "18 Mar 1994",
+		"type": "Platinum",
+		"join_date": "3 Jun 2020",
+		"points": 6500,
+		"UID": 19299,
+		"draws": 0
+	},
+	{
+		"name": "Amy",
+		"birthdate": "31 May 2000",
+		"type": "Ruby",
+		"join_date": "5 Jun 2020",
+		"points": 260,
+		"UID": 12345,
+		"draws": 0
+	}
+]

@@ -1,0 +1,14 @@
+{
+  "name": "bed-ca2",
+  "version": "1.0.0",
+  "description": "Backend Web Dev CA2",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm-run-all --parallel start-server start-client",
+    "start-server": "cd server && nodemon .",
+    "start-client": "cd client && nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
